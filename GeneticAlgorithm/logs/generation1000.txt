@@ -1,0 +1,8 @@
+Generation 1000
+Population size: 50
+Best: 3303.5
+Worst: 4519.83
+Median: 3825.25
+Average: 3945.56
+Deviation: 434.641
+

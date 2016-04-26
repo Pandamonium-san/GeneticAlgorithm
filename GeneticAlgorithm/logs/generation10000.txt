@@ -1,0 +1,8 @@
+Generation 10000
+Population size: 50
+Best: 2753.66
+Worst: 3096.96
+Median: 2825.84
+Average: 3832.11
+Deviation: 560.036
+

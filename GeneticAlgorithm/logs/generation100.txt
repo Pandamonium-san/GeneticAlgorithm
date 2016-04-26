@@ -1,0 +1,8 @@
+Generation 100
+Population size: 100
+Best: 3208.45
+Worst: 4253.13
+Median: 3354.11
+Average: 3881.39
+Deviation: 523.945
+

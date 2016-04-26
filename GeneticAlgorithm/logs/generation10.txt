@@ -1,0 +1,8 @@
+Generation 10
+Population size: 100
+Best: 5144.29
+Worst: 5478.05
+Median: 5743.36
+Average: 6018.22
+Deviation: 465.839
+

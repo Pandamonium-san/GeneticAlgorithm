@@ -1,0 +1,5 @@
+Generation 1
+Population size: 100
+Best: 7634.07
+Worst: 11374.9
+Median: 9266.05
